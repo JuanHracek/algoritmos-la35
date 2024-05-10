@@ -3,8 +3,6 @@
 #include <time.h>
 #include <stdbool.h>
 
-
-
 char* ruleta(int b, int r) {
 
   r = rand() % 37;
